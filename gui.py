@@ -38,7 +38,7 @@ except ImportError:
 PhotoImage=tk.PhotoImage
 DEBUG = False
 
-__VERSION__="2.1.5"
+__VERSION__="2.1.7"
 targetversion="FunKiiU v2.2"
 current_gui=LooseVersion(__VERSION__)
 
